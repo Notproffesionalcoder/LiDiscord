@@ -1,0 +1,2 @@
+# LiDiscord
+Nothing for now
